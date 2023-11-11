@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Kit for arduino'
+project = 'Micro:bit Basic Starter Kit'
 copyright = 'keyestudio'
 author = 'keyestudio'
 
